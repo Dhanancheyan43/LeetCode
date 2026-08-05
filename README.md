@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhanancheyan43/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhanancheyan43/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Dhanancheyan43/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dhanancheyan43/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Dhanancheyan43/LeetCode/tree/master/0771-jewels-and-stones) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dhanancheyan43/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
 | ------- |
