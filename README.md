@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Dhanancheyan43/LeetCode/tree/master/0771-jewels-and-stones) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dhanancheyan43/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dhanancheyan43/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
