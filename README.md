@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Dhanancheyan43/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Dhanancheyan43/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Dhanancheyan43/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhanancheyan43/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Dhanancheyan43/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Dhanancheyan43/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Dhanancheyan43/LeetCode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
