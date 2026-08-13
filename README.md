@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhanancheyan43/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Dhanancheyan43/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanancheyan43/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanancheyan43/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanancheyan43/LeetCode/tree/master/0002-add-two-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanancheyan43/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Counting
 |  |
 | ------- |
