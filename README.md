@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Dhanancheyan43/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanancheyan43/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanancheyan43/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3701-compute-alternating-sum](https://github.com/Dhanancheyan43/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Dhanancheyan43/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhanancheyan43/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3701-compute-alternating-sum](https://github.com/Dhanancheyan43/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Prefix Sum
 |  |
 | ------- |
