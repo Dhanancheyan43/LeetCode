@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhanancheyan43/LeetCode/tree/master/0049-group-anagrams) |
+| [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhanancheyan43/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Dhanancheyan43/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhanancheyan43/LeetCode/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanancheyan43/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Counting
@@ -91,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhanancheyan43/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
