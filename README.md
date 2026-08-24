@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Dhanancheyan43/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Dhanancheyan43/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Dhanancheyan43/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1927-sum-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhanancheyan43/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhanancheyan43/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhanancheyan43/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhanancheyan43/LeetCode/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Dhanancheyan43/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhanancheyan43/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Counting
 |  |
@@ -108,8 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
