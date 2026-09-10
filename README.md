@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhanancheyan43/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhanancheyan43/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhanancheyan43/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Dhanancheyan43/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2788-split-strings-by-separator](https://github.com/Dhanancheyan43/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhanancheyan43/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Dhanancheyan43/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhanancheyan43/LeetCode/tree/master/0049-group-anagrams) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Dhanancheyan43/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sliding Window
 |  |
 | ------- |
