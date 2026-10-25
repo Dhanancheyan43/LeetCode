@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhanancheyan43/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Dhanancheyan43/LeetCode/tree/master/0049-group-anagrams) |
 | [0877-stone-game](https://github.com/Dhanancheyan43/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhanancheyan43/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Dhanancheyan43/LeetCode/tree/master/0197-rising-temperature) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhanancheyan43/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhanancheyan43/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
